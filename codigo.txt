@@ -1,1 +1,9 @@
 Este es mi primer codigo
+
+Se creo el 28 de Octubre a las 19:20;
+
+Ahora ya se puede modificar;
+
+Cada modificacion que se haga se debe registar fecha y hora;
+
+listo para trabajar;
