@@ -7,3 +7,7 @@ Ahora ya se puede modificar;
 Cada modificacion que se haga se debe registar fecha y hora;
 
 listo para trabajar;
+
+
+Ahora ya esta el codigo en el repositorio remoto;
+Ahora se haran cambios en el local y se enviarán al remoto;
