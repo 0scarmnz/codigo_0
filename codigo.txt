@@ -11,3 +11,11 @@ listo para trabajar;
 
 Ahora ya esta el codigo en el repositorio remoto;
 Ahora se haran cambios en el local y se enviarán al remoto;
+
+
+
+
+
+
+
+Este fue un cambio hecho en Repositorio REMOTO;
