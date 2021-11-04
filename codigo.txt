@@ -1,6 +1,6 @@
-VERSION 2.0
+VERSION 3.0
 
-Este es mi primer codigo
+Este fué mi primer codigo
 
 Se creo el 28 de Octubre a las 19:20;
 
