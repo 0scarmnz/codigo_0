@@ -1,6 +1,8 @@
-VERSION 3.0
+VERSION 4.0
 
-Este fué mi primer codigo
+
+[Este es un nuevo incio];
+Este fué mi primer codigo;
 
 Se creo el 28 de Octubre a las 19:20;
 
