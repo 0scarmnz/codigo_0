@@ -1,3 +1,5 @@
+VERSION 2.0
+
 Este es mi primer codigo
 
 Se creo el 28 de Octubre a las 19:20;
@@ -19,3 +21,7 @@ Ahora se haran cambios en el local y se enviarán al remoto;
 
 
 Este fue un cambio hecho en Repositorio REMOTO;
+
+Ya se conecto al repositorio por SSH;
+
+
