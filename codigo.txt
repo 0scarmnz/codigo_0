@@ -1,4 +1,7 @@
-VERSION 4.0
+Versión 5.0
+Arreglando errores de ortografía;
+
+ERSION 4.0
 
 
 [Este es un nuevo incio];
@@ -8,7 +11,7 @@ Se creo el 28 de Octubre a las 19:20;
 
 Ahora ya se puede modificar;
 
-Cada modificacion que se haga se debe registar fecha y hora;
+Cada modificación que se haga se debe registar fecha y hora;
 
 listo para trabajar;
 
@@ -24,6 +27,6 @@ Ahora se haran cambios en el local y se enviarán al remoto;
 
 Este fue un cambio hecho en Repositorio REMOTO;
 
-Ya se conecto al repositorio por SSH;
+Ya se conectó al repositorio por SSH;
 
 
