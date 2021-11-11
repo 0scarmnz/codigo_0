@@ -1,18 +1,8 @@
-<link rel="stylesheet" href="editormd/css/editormd.css" />
-<div id="test-editor">
-    <textarea style="display:none;">### Editor.md
+**Mi primer README.md**
 
-**Editor.md**: The open source embeddable online markdown editor, based on CodeMirror & jQuery & Marked.
-    </textarea>
-</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="editormd/editormd.min.js"></script>
-<script type="text/javascript">
-    $(function() {
-        var editor = editormd("test-editor", {
-            // width  : "100%",
-            // height : "100%",
-            path   : "editormd/lib/"
-        });
-    });
-</script>
+![img100](https://img.shields.io/badge/tests-100%25-brightgreen "img100")
+![succes](https://img.shields.io/badge/-success-success "succes")
+
+>*Archivo de referencia...*
+
+![Hi world GIF](https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif "Hi wolrd GIF")
